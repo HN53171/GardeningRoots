@@ -1,57 +1,62 @@
+{ "results": [
 {
-  "Potato": {
+    "Name": "Potato",
     "Climate": "direct sunlight, 65-80°F",
     "When": "early Spring to Summer",
     "Watering": "1-2 in. per week",
     "Harvest": "mid-Summer to early Fall",
     "Image": ""
   },
-
-  "Turnip": {
+{
+    "Name": "Turnip",
     "Climate": "direct sunlight, 50-65°F",
     "When": "late Spring or Fall",
     "Watering": "1 in. per week",
     "Harvest": "Summer or before First Frost",
     "Image": ""
   },
-
-  "Carrot": {
+{
+    "Name": "Carrot",
     "Climate": "direct sunlight, 40-80°F",
     "When": "early Spring or Fall",
     "Watering": "2 in. per week",
     "Harvest": "early Summer or early Winter",
     "Image": ""
   },
-
-  "Beets": {
+{
+    "Name": "Beets",
     "Climate": "direct sunlight, 55-75°F",
     "When": "mid-Spring to Summer",
     "Watering": "1 in. per week",
     "Harvest": "Summer to Fall",
     "Image": ""
   },
-
-  "Sweet Potato": {
+  
+{
+    "Name": "Sweet Potato",
     "Climate": "direct sunlight, 85-95°F",
     "When": "late Spring",
     "Watering": "1 in. per week",
     "Harvest": "late Summer to Fall",
     "Image": ""
   },
-
-  "Radish": {
+  
+{
+    "Name": "Radish",
     "Climate": "direct sunlight to partial shade, 60-65°F",
     "When": "mid-Spring or early Fall",
     "Watering": "1 in. per week",
     "Harvest": "early Summer or late Fall",
     "Image": ""
   },
-
-  "Rutabaga": {
+  
+{
+    "Name": "Rutabaga",
     "Climate": "direct sunlight to partial shade, 50-65°F",
     "When": "early Summer",
     "Watering": "1 in. per week",
     "Harvest": "Fall",
     "Image": ""
   }
+]
 }
